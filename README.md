@@ -20,7 +20,7 @@ When using this code GPU acceleration is highlight recommended.  If you are usin
 
 `python3 train.py`
 
-Please note this will download a 3.1GB pre-trained GPT2 model, so that takes a while. The retraining procexss can also take 30 minutes to quite a few hours depending on your machine. 
+Please note this will download a 3.1GB pre-trained GPT2 model, so that takes a while. The retraining process can also take a long time, between 30 minutes up to quite a few hours depending on your machine. 
 
 
 
