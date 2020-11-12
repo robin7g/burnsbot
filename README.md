@@ -23,7 +23,7 @@ When using this code GPU acceleration is highlight recommended.  If you are usin
 
 `pip install tensorflow-gpu==1.15`
 
-**Usages:**
+**Usage**
 
 `python3 train.py`
 
