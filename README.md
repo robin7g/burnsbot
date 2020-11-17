@@ -7,7 +7,7 @@ The data used to train the AI model was derived from the **Poems and Songs of Ro
 https://www.gutenberg.org/ebooks/author/583
 
 
-This repository is to accompany a video I created about building a Poetry AI. This is the second generation Burns Bot. The first used much simpler RNN. This version is much better at language generation. 
+This repository is to accompany a video I created about building a Poetry AI. This is the second generation Burns Bot. The first used a much simpler RNN. This version is much better at language generation. 
 
 ## Watch the video here
 
