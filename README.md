@@ -43,5 +43,8 @@ Installing this library is as easy as
 
 Please note this will download a 3.1GB pre-trained GPT2 model, so that takes a while. The retraining, finetune process can also take a long time, between 30 minutes up to quite a few hours depending on your machine. An AGX Xavier takes about 170 minutes to run this which includes the time for me to download the 3GB model. 
 
+**License**
+
+MIT
 
 
