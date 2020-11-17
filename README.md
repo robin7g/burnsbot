@@ -17,7 +17,7 @@ Feel free to comment on the video and ask questions. I will try to answer any qu
 
 ## Instructions
 
-Make sure you have tensorflow install on an NVIDIA Jetson platform machine follow these instructions 
+Make sure you have tensorflow install on an NVIDIA Jetson platform machine follow these instructions. Make sure you get the version before v2 of Tensor as this code works with earlier versions. The instructions tell you how to do this. 
 https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html
 
 **Install TensorFlow GPU**
