@@ -27,6 +27,16 @@ When using this code GPU acceleration is highlight recommended.  If you are usin
 
 `pip3 install tensorflow-gpu==1.15`
 
+**Install GPT2 Simple**
+
+The library mentioned in the video which makes finetuning really simple is called GPT2 Simple. Here is a link to the GitHub repo for those interested
+
+https://github.com/minimaxir/gpt-2-simple
+
+Installing this library is as easy as 
+
+`pip3 install gpt_2_simple`
+
 **Usage**
 
 `python3 train.py`
